@@ -1,0 +1,14 @@
+nav{
+    background-color: rgb(36, 33, 33);
+}
+
+.navbar-brand:hover{
+    color:goldenrod;
+}
+.nav-link:hover{
+    color:goldenrod;
+}
+
+.nav-link, .navbar-brand{
+    color:goldenrod;
+}
