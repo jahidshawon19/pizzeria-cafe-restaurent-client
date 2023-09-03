@@ -1,0 +1,37 @@
+[
+    {
+        "_id":"01",
+        "title":"Margherita Classic",
+        "img":"https://i.ibb.co/5rvkCy3/1-pizza.jpg",
+        "price":1200,
+        "description":"A timeless favorite with a thin crust, fresh tomato sauce, mozzarella cheese, and basil leaves, creating a simple yet delicious flavor combination.",
+        "category":"pizza"
+    },
+  
+    {
+        "_id":"02",
+        "title":"Pepperoni Paradise",
+        "img":"https://i.ibb.co/6XYb4yx/2-pizza.jpg",
+        "price":980,
+        "description":"Loaded with savory pepperoni slices, mozzarella cheese, and a zesty tomato sauce, this pizza is a carnivore's dream come true.",
+        "category":"pizza"
+    },
+
+    {
+        "_id":"03",
+        "title":"Veggie Delight",
+        "img":"https://i.ibb.co/F6Ck4HK/3-pizza.jpg",
+        "price":1450,
+        "description":"Packed with a colorful assortment of fresh vegetables like bell peppers, mushrooms, onions, and olives, topped with a blend of cheeses for a healthy and satisfying option.",
+        "category":"pizza"
+    },
+    {
+        "_id":"04",
+        "title":"BBQ Chicken Feast",
+        "img":"https://i.ibb.co/YTJc2P2/4-pizza.jpg",
+        "price":1100,
+        "description":"Grilled chicken pieces smothered in tangy barbecue sauce, complemented by red onions, cilantro, and a blend of cheeses, for a mouthwatering BBQ experience.",
+        "category":"pizza"
+    }
+
+]

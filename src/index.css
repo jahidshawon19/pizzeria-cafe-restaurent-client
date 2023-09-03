@@ -1,0 +1,29 @@
+body,p,span{
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+}
+
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+
+.btn {
+    background-color: goldenrod;
+    color: white;
+}
+
+.btn:hover{
+    background-color: goldenrod;
+    color: white;
+}
+
+
+@media only screen and (max-width:480px){
+    html, body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+}

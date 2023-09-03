@@ -1,0 +1,27 @@
+
+.menu-image img{
+    width: 6rem;
+}
+
+.menu-title a{
+ 
+    font-weight: 300;
+    font-size: 18px;
+    color: #333333;
+    line-height: 1.4;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 1rem;
+}
+
+.menu-title p{
+    font-weight: 400;
+    font-size: 13px;
+    color: #666666;
+    line-height: 1.7;
+    margin-left: 1rem;
+}
+
+.menu-title h6{
+    margin-left:1rem;
+}
