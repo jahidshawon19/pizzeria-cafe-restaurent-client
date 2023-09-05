@@ -1,0 +1,23 @@
+.banner-section{
+   
+    background-image: url('image-url.jpg');
+    width: 100%;
+    min-height: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-repeat: no-repeat;
+    background-position: center 0;
+    background-size: cover;
+    
+}
+
+.banner-title{
+  
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 1.2;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+}

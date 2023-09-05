@@ -4,8 +4,16 @@
         "title":"Margherita Classic",
         "img":"https://i.ibb.co/5rvkCy3/1-pizza.jpg",
         "price":1200,
-        "description":"A timeless favorite with a thin crust, fresh tomato sauce, mozzarella cheese, and basil leaves, creating a simple yet delicious flavor combination.",
+        "description":"mix of pepperoni, sausage, bacon, and ground beef",
         "category":"pizza"
+    },
+    {
+        "_id":"08",
+        "title":"Crispy Chicken Crunch",
+        "img":"https://i.ibb.co/vZrHf6m/4-Burger.jpg",
+        "price":800,
+        "description":"mix of pepperoni, sausage, bacon, and ground beef",
+        "category":"burger"
     },
   
     {
@@ -13,25 +21,55 @@
         "title":"Pepperoni Paradise",
         "img":"https://i.ibb.co/6XYb4yx/2-pizza.jpg",
         "price":980,
-        "description":"Loaded with savory pepperoni slices, mozzarella cheese, and a zesty tomato sauce, this pizza is a carnivore's dream come true.",
+        "description":"mix of pepperoni, sausage, bacon, and ground beef",
         "category":"pizza"
     },
+    {
+        "_id":"06",
+        "title":"Bacon Bliss Burge",
+        "img":"https://i.ibb.co/fXvPjxz/2-Burger-1.jpg",
+        "price":800,
+        "description":"mix of pepperoni, sausage, bacon, and ground beef",
+        "category":"burger"
+    },
+
 
     {
         "_id":"03",
         "title":"Veggie Delight",
         "img":"https://i.ibb.co/F6Ck4HK/3-pizza.jpg",
         "price":1450,
-        "description":"Packed with a colorful assortment of fresh vegetables like bell peppers, mushrooms, onions, and olives, topped with a blend of cheeses for a healthy and satisfying option.",
+        "description":"mix of pepperoni, sausage, bacon, and ground beef",
         "category":"pizza"
+    },
+    {
+        "_id":"07",
+        "title":"Mushroom Swiss Supreme",
+        "img":"https://i.ibb.co/mcVSzx1/2-Burger.jpg",
+        "price":840,
+        "description":"mix of pepperoni, sausage, bacon, and ground beef",
+        "category":"burger"
     },
     {
         "_id":"04",
         "title":"BBQ Chicken Feast",
         "img":"https://i.ibb.co/YTJc2P2/4-pizza.jpg",
         "price":1100,
-        "description":"Grilled chicken pieces smothered in tangy barbecue sauce, complemented by red onions, cilantro, and a blend of cheeses, for a mouthwatering BBQ experience.",
+        "description":"mix of pepperoni, sausage, bacon, and ground beef",
         "category":"pizza"
+    },
+    {
+        "_id":"05",
+        "title":"Classic American Burger",
+        "img":"https://i.ibb.co/bB4r1Dh/1-burger.jpg",
+        "price":850,
+        "description":"mix of pepperoni, sausage, bacon, and ground beef",
+        "category":"burger"
     }
 
+
+   
+
 ]
+
+

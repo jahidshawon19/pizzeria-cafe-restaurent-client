@@ -1,15 +1,12 @@
-import { useEffect, useState } from "react";
+
 import SectionTitle from "../../Shared/SectionTitle/SectionTitle";
 import './HomeMenu.css';
 import SingleHomeMenu from "./SingleHomeMenu";
+import { Link } from "react-router-dom";
+import useMenu from "../../../Hooks/useMenu";
 
 const HomeMenu = () => {
-    const [menu, setMenu] = useState([])
-    useEffect(()=>{
-        fetch('menu.json')
-        .then(res=>res.json())
-        .then(data => setMenu(data))
-    },[])
+    const [menu] = useMenu()
     return (
         <>
              <section className="home-menu-section py-5 bg-light">
@@ -29,7 +26,7 @@ const HomeMenu = () => {
                     </div>
 
                   <div className="text-center">
-                  <button className="btn btn-outline-warning">View Full Menu</button>
+                  <Link className="btn btn-outline-warning" to="/menu">View Full Menu</Link>
                   </div>
                 </div>
             

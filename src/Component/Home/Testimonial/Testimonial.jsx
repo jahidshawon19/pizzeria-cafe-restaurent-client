@@ -26,7 +26,7 @@ const Testimonial = () => {
 
                 <div className="container">
                     <Swiper navigation={true} modules={[Navigation]} className="mySwiper mt-4">
-                        <SwiperSlide>Slide 1</SwiperSlide>
+                        
 
                         {
                             review.map(review =>

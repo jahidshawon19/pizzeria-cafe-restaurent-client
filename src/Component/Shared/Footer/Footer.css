@@ -1,6 +1,6 @@
 
 footer{
-    background:#2D333F;
+    background:#222222;
     padding:4rem 0;
 }
 footer .container{
@@ -75,7 +75,7 @@ footer .box:nth-child(3) ul li{
 
 footer.copyright{
     padding:1rem 0;
-    background: #232B38;
+    background: #222222;
     color:#FEFEFE;
     text-align: center;
     font-size: 0.75rem;
