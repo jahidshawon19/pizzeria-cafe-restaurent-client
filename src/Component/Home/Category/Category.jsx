@@ -25,12 +25,14 @@ const Category = () => {
                         }}
                         modules={[Pagination]}
                         className="mySwiper"
+
+                        
                     >
-                        <SwiperSlide>
+                        <SwiperSlide >
 
 
 
-                            <div className="text-center">
+                            <div className="text-center" >
                                 <img src={cat4} alt="" className='img-fluid cat-img rounded' />
                                 <h3 className='text-danger mt-3'>Burger</h3>
                             </div>
